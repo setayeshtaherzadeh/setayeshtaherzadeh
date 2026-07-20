@@ -1,9 +1,8 @@
 ### Hi, I'm Setayesh 
  
-Software Engineer interested in **Human-Computer Interaction, Intelligent Transportation Systems, and Human-Centered AI**.    
- 
-I build front-end interfaces and reporting systems for enterprise applications, and outside of work I explore how software engineering extends into intelligent transportation systems, with a growing interest in vehicle data analytics, driver-assistance technologies, and Human-Computer Interaction (HCI).
+Software Engineer interested in **Human-Computer Interaction, Intelligent Transportation Systems, and Human-Centered AI**.   
 
+I build front-end interfaces and reporting systems for enterprise applications, and outside of work I explore vehicle data analytics and driver behavior analysis, with growing interests in Human-Computer Interaction (HCI), Intelligent Transportation Systems, and driver-assistance technologies.
  
 **Currently exploring:**
 - Advanced Driver Assistance Systems (ADAS) & vehicle telemetry analysis
