@@ -5,18 +5,18 @@ Software Engineer interested in **Human-Computer Interaction, Intelligent Transp
 I build front-end interfaces and reporting systems for enterprise applications, and outside of work I explore vehicle data analytics and driver behavior analysis, with growing interests in Human-Computer Interaction (HCI), Intelligent Transportation Systems, and driver-assistance technologies.
  
 **Currently exploring:**
+- 📊 Data-driven analysis of real-world driving behavior
 - Advanced Driver Assistance Systems (ADAS) & vehicle telemetry analysis
 - Human Factors & Data-Driven Interaction Design
 - Human-Computer Interaction (HCI) for Intelligent Vehicles
-- 📊 Data-driven analysis of real-world driving behavior
 
 
 **Featured work:**
+
+   [Vehicle Driving Behavior Analysis](https://github.com/setayeshtaherzadeh/vehicle-driving-behavior-analysis) — statistical analysis of ~789K real OBD-II telemetry records, with an interactive React dashboard
   
    [*A Review on the Convergence of AI and Blockchain*](https://setayeshtaherzadeh.github.io/ai-blockchain-review-paper-2025) — peer-reviewed, DeBlock International Conference 2025
   
-   [Vehicle Driving Behavior Analysis](https://github.com/setayeshtaherzadeh/vehicle-driving-behavior-analysis) — statistical analysis of ~789K real OBD-II telemetry records, with an interactive React dashboard
-
   
 **Background:** B.Sc. Computer Software Engineering (Azad University) · React.js, TypeScript, Python, MATLAB
 
