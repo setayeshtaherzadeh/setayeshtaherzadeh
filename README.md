@@ -2,7 +2,7 @@
  
 Software Engineer interested in **Human-Computer Interaction, Intelligent Transportation Systems, and Human-Centered AI**.    
  
-I build front-end interfaces and reporting systems for enterprise applications, and outside of work I explore how software engineering extends into intelligent transportation systems through vehicle data analytics, driver-assistance technologies, and emerging research in Human-Computer Interaction (HCI).
+I build front-end interfaces and reporting systems for enterprise applications, and outside of work I explore how software engineering extends into intelligent transportation systems, with a growing interest in vehicle data analytics, driver-assistance technologies, and Human-Computer Interaction (HCI).
 
  
 **Currently exploring:**
